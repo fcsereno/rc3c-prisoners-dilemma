@@ -1,0 +1,46 @@
+estrategia_a,estrategia_b,media_pts_a,media_pts_b,resultado
+Grudger,Pavlov,600.0,600.0,empate
+Grudger,RC3C-Agressiva,600.0,600.0,empate
+Grudger,RC3C-Padrão,600.0,600.0,empate
+Grudger,RC3C-Suave,600.0,600.0,empate
+Grudger,TFT Generoso,600.0,600.0,empate
+Pavlov,RC3C-Agressiva,600.0,600.0,empate
+Pavlov,RC3C-Padrão,600.0,600.0,empate
+Pavlov,RC3C-Suave,600.0,600.0,empate
+Pavlov,TFT Generoso,600.0,600.0,empate
+RC3C-Padrão,RC3C-Agressiva,600.0,600.0,empate
+RC3C-Suave,RC3C-Agressiva,600.0,600.0,empate
+RC3C-Suave,RC3C-Padrão,600.0,600.0,empate
+Sempre Coopera,Grudger,600.0,600.0,empate
+Sempre Coopera,Pavlov,600.0,600.0,empate
+Sempre Coopera,RC3C-Agressiva,600.0,600.0,empate
+Sempre Coopera,RC3C-Padrão,600.0,600.0,empate
+Sempre Coopera,RC3C-Suave,600.0,600.0,empate
+Sempre Coopera,Sempre Trai,0.0,1000.0,Sempre Trai vence
+Sempre Coopera,TFT Generoso,600.0,600.0,empate
+Sempre Coopera,Tit-for-Tat,600.0,600.0,empate
+Sempre Coopera,Tit-for-Two-Tats,600.0,600.0,empate
+Sempre Trai,Grudger,204.0,199.0,Sempre Trai vence
+Sempre Trai,Pavlov,600.0,100.0,Sempre Trai vence
+Sempre Trai,RC3C-Agressiva,206.5,198.4,Sempre Trai vence
+Sempre Trai,RC3C-Padrão,209.5,197.6,Sempre Trai vence
+Sempre Trai,RC3C-Suave,217.5,195.6,Sempre Trai vence
+Sempre Trai,TFT Generoso,282.8,179.3,Sempre Trai vence
+Sempre Trai,Tit-for-Tat,204.0,199.0,Sempre Trai vence
+Sempre Trai,Tit-for-Two-Tats,208.0,198.0,Sempre Trai vence
+TFT Generoso,RC3C-Agressiva,600.0,600.0,empate
+TFT Generoso,RC3C-Padrão,600.0,600.0,empate
+TFT Generoso,RC3C-Suave,600.0,600.0,empate
+Tit-for-Tat,Grudger,600.0,600.0,empate
+Tit-for-Tat,Pavlov,600.0,600.0,empate
+Tit-for-Tat,RC3C-Agressiva,600.0,600.0,empate
+Tit-for-Tat,RC3C-Padrão,600.0,600.0,empate
+Tit-for-Tat,RC3C-Suave,600.0,600.0,empate
+Tit-for-Tat,TFT Generoso,600.0,600.0,empate
+Tit-for-Tat,Tit-for-Two-Tats,600.0,600.0,empate
+Tit-for-Two-Tats,Grudger,600.0,600.0,empate
+Tit-for-Two-Tats,Pavlov,600.0,600.0,empate
+Tit-for-Two-Tats,RC3C-Agressiva,600.0,600.0,empate
+Tit-for-Two-Tats,RC3C-Padrão,600.0,600.0,empate
+Tit-for-Two-Tats,RC3C-Suave,600.0,600.0,empate
+Tit-for-Two-Tats,TFT Generoso,600.0,600.0,empate
