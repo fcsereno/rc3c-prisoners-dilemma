@@ -3,7 +3,10 @@
 EXPERIMENTO COMPLETO — RC3C vs Estratégias Clássicas
 Retaliação Caótica de Três Corpos no Dilema dos Prisioneiros Iterado
 
-Autor : Fabio da Costa Sereno
+Fabio da Costa Sereno
+Independent Researcher, Nova Friburgo, RJ, Brazil
+fcsereno@gmail.com
+https://orcid.org/0009-0002-0175-3963
 Script : torneioRC3C.py
 
 Saídas geradas:
